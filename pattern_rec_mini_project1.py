@@ -8,4 +8,3 @@ plt.title('EGG Signal')
 plt.xlabel('Sample')
 plt.ylabel('Amplitude')
 plt.show()
-
